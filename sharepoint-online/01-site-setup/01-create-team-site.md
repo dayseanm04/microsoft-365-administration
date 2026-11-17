@@ -39,6 +39,7 @@ Under **Start building**, you can create a Site, List, Document library or Agent
 
 ### 5. Pick a template
 
+There are two site types:
 
 
 
