@@ -55,6 +55,8 @@ The settings panel opens on the right. Some of what you can change:
 | Audience targeting | Show news only to certain groups |
 | Organize | Set the order news posts appear in |
 
+### 5. Delete the News web part
+
 
 
 
