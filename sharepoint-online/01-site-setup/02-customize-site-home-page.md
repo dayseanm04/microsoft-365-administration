@@ -74,6 +74,7 @@ Click the **News** section, click the **trash can** (Delete web part), then conf
 
 Click a section, then click and hold the **6 dots** (top left of the small toolbar) and drag it where you want it.
 
+<img width="727" height="391" alt="8" src="https://github.com/user-attachments/assets/8cfc56ed-e93d-4586-9522-615a00809177" />
 
 
 
