@@ -89,6 +89,7 @@ Click the **Activity** section and click the **trash can** to delete it, same as
 
 With News and Activity gone, the left column was empty. Click the section to open the **Section** panel. Under **Columns**, it was set to **One-third right**. I changed it to **One column** so Quick links and Documents use the full width.
 
+Other layouts: Two columns, Three columns, One-third left.
 
 
 
