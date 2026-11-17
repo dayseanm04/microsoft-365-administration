@@ -76,11 +76,14 @@ Click a section, then click and hold the **6 dots** (top left of the small toolb
 
 <img width="727" height="391" alt="8" src="https://github.com/user-attachments/assets/8cfc56ed-e93d-4586-9522-615a00809177" />
 
+<img width="749" height="598" alt="9" src="https://github.com/user-attachments/assets/086344df-5aa7-4c67-b87e-cf862084a552" />
+
+
 ### 7. Delete the Activity web part
 
 Click the **Activity** section and click the **trash can** to delete it, same as the News section.
 
-<img width="627" height="377" alt="9" src="https://github.com/user-attachments/assets/dcc47f59-3244-4694-b152-0d13ab2d7637" />
+<img width="627" height="377" alt="10" src="https://github.com/user-attachments/assets/dcc47f59-3244-4694-b152-0d13ab2d7637" />
 
 
 
