@@ -42,6 +42,7 @@ Under **Start building**, you can create a Site, List, Document library or Agent
 There are two site types:
 
 | Type | Used for |
+|---|---|
 
 
 
