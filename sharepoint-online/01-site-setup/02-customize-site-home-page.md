@@ -32,4 +32,22 @@ A new team site home page comes with these sections:
 
 Click **Edit** (top right). The page switches to edit mode and the **Toolbox** opens on the right with web parts you can add (Text, Image, Quick links, News, People, Hero, etc.).
 
+<img width="679" height="375" alt="3" src="https://github.com/user-attachments/assets/ae3b3381-3a70-45ef-8809-cf88ef459f3c" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
