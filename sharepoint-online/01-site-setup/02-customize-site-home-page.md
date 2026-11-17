@@ -105,3 +105,4 @@ Click **Publish changes**. A box comes up saying "Ready to republish?" because t
 
 ## Result
 
+The home page now has one full-width column with **Quick links** and **Documents**. The **News** and **Activity** sections are gone.
