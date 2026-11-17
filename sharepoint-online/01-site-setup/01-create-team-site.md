@@ -37,6 +37,8 @@ Click **Build**.
 
 Under **Start building**, you can create a Site, List, Document library or Agent. Click **Site**.
 
+<img width="1181" height="795" alt="5" src="https://github.com/user-attachments/assets/e670408a-aa15-41ae-aba7-8156bef969e2" />
+
 ### 5. Pick a template
 
 There are two site types:
