@@ -69,6 +69,7 @@ The Standard team template comes with one home page that shows team activity, ne
 | Privacy | Private - only members can access this site |
 | Language | English |
 
+Notes:
 
 
 
