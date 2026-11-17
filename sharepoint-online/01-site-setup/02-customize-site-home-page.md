@@ -91,6 +91,7 @@ With News and Activity gone, the left column was empty. Click the section to ope
 
 Other layouts: Two columns, Three columns, One-third left.
 
+<img width="1368" height="1031" alt="11" src="https://github.com/user-attachments/assets/92e2377f-85a7-42d5-95b5-5cfc1aab944f" />
 
 
 
