@@ -63,6 +63,7 @@ Click the **News** section, click the **trash can** (Delete web part), then conf
 
 <img width="882" height="859" alt="6" src="https://github.com/user-attachments/assets/39fab902-41be-477c-8416-e548f24bb86b" />
 
+> **Note:** Edits are saved as a draft. Nobody else sees them until you click **Publish changes**. If you mess up, **Discard edits** throws out everything since the last publish. I did this once and started over.
 
 
 
