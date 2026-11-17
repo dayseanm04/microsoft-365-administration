@@ -24,3 +24,4 @@ A new team site home page comes with these sections:
 - **News**
 - **Activity**
 - **Quick links**
+- **Documents**
