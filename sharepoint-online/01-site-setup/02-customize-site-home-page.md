@@ -57,6 +57,7 @@ The settings panel opens on the right. Some of what you can change:
 
 ### 5. Delete the News web part
 
+Click the **News** section, click the **trash can** (Delete web part), then confirm **Delete**.
 
 
 
