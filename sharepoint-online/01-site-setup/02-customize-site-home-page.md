@@ -30,5 +30,6 @@ A new team site home page comes with these sections:
 
 ### 3. Go into edit mode
 
+Click **Edit** (top right). The page switches to edit mode and the **Toolbox** opens on the right with web parts you can add (Text, Image, Quick links, News, People, Hero, etc.).
 
 
