@@ -28,5 +28,7 @@ A new team site home page comes with these sections:
 
 <img width="1405" height="1032" alt="2" src="https://github.com/user-attachments/assets/cf30462e-fd55-4f7c-95a4-1f0606e7671f" />
 
+### 3. Go into edit mode
+
 
 
