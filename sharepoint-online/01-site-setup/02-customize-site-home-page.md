@@ -85,6 +85,7 @@ Click the **Activity** section and click the **trash can** to delete it, same as
 
 <img width="627" height="377" alt="10" src="https://github.com/user-attachments/assets/dcc47f59-3244-4694-b152-0d13ab2d7637" />
 
+### 8. Change the section layout
 
 
 
