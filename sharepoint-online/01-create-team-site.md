@@ -30,3 +30,13 @@ The SharePoint start page has four tabs on the left: **Discover**, **Publish**, 
 <img width="1025" height="612" alt="3" src="https://github.com/user-attachments/assets/776f7a27-75c7-4957-82f6-ad2b285a7dd3" />
 
 Click **Build**.
+
+<img width="1303" height="855" alt="4" src="https://github.com/user-attachments/assets/77648634-41b3-4da1-9c19-74593abaa8e7" />
+
+
+
+
+
+
+
+
