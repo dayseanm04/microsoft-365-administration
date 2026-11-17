@@ -59,7 +59,7 @@ The settings panel opens on the right. Some of what you can change:
 
 Click the **News** section, click the **trash can** (Delete web part), then confirm **Delete**.
 
-
+> **Note:** I removed the News section to show how deleting a web part works. I add it back later in [**04 - Create a news page**](04-create-news-page.md), since that's where my news posts show up.
 
 
 
