@@ -62,6 +62,7 @@ The Standard team template comes with one home page that shows team activity, ne
 
 | Field | What I entered |
 |---|---|
+| Site name | SharePoint Practice Lab - Daysean |
 
 
 
