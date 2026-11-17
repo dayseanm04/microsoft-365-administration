@@ -52,6 +52,7 @@ The settings panel opens on the right. Some of what you can change:
 | Layout | Top story, List, Side-by-side, Hub News, Carousel, Tiles |
 | Show / hide | Title, commands, author, published date, number of views |
 | Filter | Show only news whose title includes certain words |
+| Audience targeting | Show news only to certain groups |
 
 
 
