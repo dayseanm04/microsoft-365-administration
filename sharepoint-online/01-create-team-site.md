@@ -10,3 +10,5 @@ Create a private team site to use as my practice lab for learning SharePoint adm
 ---
 
 ## Steps
+
+### 1. Sign in to Microsoft 365
