@@ -34,6 +34,7 @@ Click **Edit** (top right). The page switches to edit mode and the **Toolbox** o
 
 <img width="679" height="375" alt="3" src="https://github.com/user-attachments/assets/ae3b3381-3a70-45ef-8809-cf88ef459f3c" />
 
+### 4. Look at a web part's settings
 
 
 
