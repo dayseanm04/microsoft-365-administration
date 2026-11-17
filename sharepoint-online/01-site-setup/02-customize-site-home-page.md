@@ -51,6 +51,7 @@ The settings panel opens on the right. Some of what you can change:
 | News source | This site, Select sites, Recommended for current user |
 | Layout | Top story, List, Side-by-side, Hub News, Carousel, Tiles |
 | Show / hide | Title, commands, author, published date, number of views |
+| Filter | Show only news whose title includes certain words |
 
 
 
