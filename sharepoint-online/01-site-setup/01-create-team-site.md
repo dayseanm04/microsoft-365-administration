@@ -88,6 +88,7 @@ The site was created as a **private group with 1 member** (me). The home page co
 - **Left navigation:** Home, Conversations, Documents, Notebook, Pages, Site contents, Recycle bin
 - **Home page sections:** News, Quick links, Documents, Activity
 
+<img width="1366" height="1035" alt="10" src="https://github.com/user-attachments/assets/27cf9c56-43aa-4647-8ed8-b4c2fe4eb21a" />
 
 
 
