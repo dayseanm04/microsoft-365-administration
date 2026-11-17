@@ -93,10 +93,12 @@ Other layouts: Two columns, Three columns, One-third left.
 
 <img width="1368" height="1031" alt="11" src="https://github.com/user-attachments/assets/92e2377f-85a7-42d5-95b5-5cfc1aab944f" />
 
-<img width="1321" height="1001" alt="11" src="https://github.com/user-attachments/assets/98151600-72e3-4a2e-b20d-6ff8193b295e" />
+<img width="1321" height="1001" alt="12" src="https://github.com/user-attachments/assets/98151600-72e3-4a2e-b20d-6ff8193b295e" />
 
 ### 9. Publish
 
 Click **Publish changes**. A box comes up saying "Ready to republish?" because the page has been published before. Click **Republish**. Your changes are now visible to anyone who can get to the site.
+
+<img width="529" height="274" alt="13" src="https://github.com/user-attachments/assets/598201d8-c2b5-408c-8b45-186781d66210" />
 
 
