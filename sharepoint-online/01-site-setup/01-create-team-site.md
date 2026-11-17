@@ -64,6 +64,7 @@ The Standard team template comes with one home page that shows team activity, ne
 |---|---|
 | Site name | SharePoint Practice Lab - Daysean |
 | Site description | Personal practice site for learning SharePoint admin: permissions, sharing, libraries, lists, recovery etc. |
+| Group email address | SharePointPracticeLab-Daysean |
 
 
 
