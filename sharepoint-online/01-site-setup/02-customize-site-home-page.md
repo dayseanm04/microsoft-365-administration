@@ -21,3 +21,4 @@ From the SharePoint start page, go to **Discover → Overview**. My site shows u
 ### 2. Look at the default home page
 
 A new team site home page comes with these sections:
+- **News**
