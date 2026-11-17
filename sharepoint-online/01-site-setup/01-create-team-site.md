@@ -54,6 +54,7 @@ I picked **Team site → Standard team**.
 
 ### 6. Preview and use the template
 
+The Standard team template comes with one home page that shows team activity, news, and highlighted content. You can change the template later under Settings. Click **Use template**.
 
 
 
