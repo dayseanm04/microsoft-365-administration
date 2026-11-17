@@ -65,6 +65,7 @@ Click the **News** section, click the **trash can** (Delete web part), then conf
 
 > **Note:** Edits are saved as a draft. Nobody else sees them until you click **Publish changes**. If you mess up, **Discard edits** throws out everything since the last publish. I did this once and started over.
 
+### 6. Move a web part
 
 
 
