@@ -95,5 +95,6 @@ Other layouts: Two columns, Three columns, One-third left.
 
 <img width="1321" height="1001" alt="11" src="https://github.com/user-attachments/assets/98151600-72e3-4a2e-b20d-6ff8193b295e" />
 
+### 9. Publish
 
 
