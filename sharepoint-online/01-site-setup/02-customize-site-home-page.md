@@ -19,3 +19,5 @@ From the SharePoint start page, go to **Discover → Overview**. My site shows u
 <img width="1096" height="682" alt="1" src="https://github.com/user-attachments/assets/eaee35ee-70a2-4390-bac4-c22869ae16a8" />
 
 ### 2. Look at the default home page
+
+A new team site home page comes with these sections:
