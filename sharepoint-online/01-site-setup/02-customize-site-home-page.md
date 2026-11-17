@@ -63,6 +63,11 @@ Click the **News** section, click the **trash can** (Delete web part), then conf
 
 <img width="882" height="859" alt="6" src="https://github.com/user-attachments/assets/39fab902-41be-477c-8416-e548f24bb86b" />
 
+### The news section has been deleted
+
+<img width="1030" height="980" alt="7" src="https://github.com/user-attachments/assets/61c0937b-9873-465d-94ec-ca171b48227f" />
+
+
 > **Note:** Edits are saved as a draft. Nobody else sees them until you click **Publish changes**. If you mess up, **Discard edits** throws out everything since the last publish. I did this once and started over.
 
 ### 6. Move a web part
