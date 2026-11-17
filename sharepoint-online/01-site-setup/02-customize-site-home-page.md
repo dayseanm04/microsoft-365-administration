@@ -97,4 +97,6 @@ Other layouts: Two columns, Three columns, One-third left.
 
 ### 9. Publish
 
+Click **Publish changes**. A box comes up saying "Ready to republish?" because the page has been published before. Click **Republish**. Your changes are now visible to anyone who can get to the site.
+
 
