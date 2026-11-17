@@ -40,6 +40,7 @@ Click the **News** section, then click **Edit properties** (the slider icon in t
 
 <img width="672" height="219" alt="4" src="https://github.com/user-attachments/assets/62eebf85-3676-446d-ac9f-b947934b3d6e" />
 
+The settings panel opens on the right. Some of what you can change:
 
 
 
