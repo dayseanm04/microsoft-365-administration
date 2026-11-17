@@ -52,3 +52,28 @@ I picked **Team site → Standard team**.
 
 <img width="1209" height="833" alt="6" src="https://github.com/user-attachments/assets/d9d9c235-7532-4233-aaaf-7fb25f6311d8" />
 
+### 6. Preview and use the template
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
