@@ -46,5 +46,6 @@ There are two site types:
 | **Team site** | A shared workspace where members work on content together. Connected to a Microsoft 365 group |
 | **Communication site** | Sharing information with a large audience, where most people only read |
 
+I picked **Team site → Standard team**.
 
 
