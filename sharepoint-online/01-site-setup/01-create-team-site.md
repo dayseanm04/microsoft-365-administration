@@ -35,6 +35,7 @@ Click **Build**.
 
 ### 4. Choose Site
 
+Under **Start building**, you can create a Site, List, Document library or Agent. Click **Site**.
 
 
 
