@@ -67,6 +67,7 @@ Click the **News** section, click the **trash can** (Delete web part), then conf
 
 ### 6. Move a web part
 
+Click a section, then click and hold the **6 dots** (top left of the small toolbar) and drag it where you want it.
 
 
 
