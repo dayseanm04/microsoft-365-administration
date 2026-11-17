@@ -101,10 +101,12 @@ Click **Publish changes**. A box comes up saying "Ready to republish?" because t
 
 <img width="529" height="274" alt="13" src="https://github.com/user-attachments/assets/598201d8-c2b5-408c-8b45-186781d66210" />
 
+<img width="732" height="546" alt="14" src="https://github.com/user-attachments/assets/093e50d0-701a-44a3-9c0a-879716e51a07" />
+
 ---
 
 ## Result
 
 The home page now has one full-width column with **Quick links** and **Documents**. The **News** and **Activity** sections are gone.
 
-<img width="1327" height="745" alt="14" src="https://github.com/user-attachments/assets/826d0d33-5105-4d4d-9ff3-aaa467c937d8" />
+<img width="1327" height="745" alt="15" src="https://github.com/user-attachments/assets/826d0d33-5105-4d4d-9ff3-aaa467c937d8" />
