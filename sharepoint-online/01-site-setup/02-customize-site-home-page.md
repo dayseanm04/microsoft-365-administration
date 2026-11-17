@@ -13,3 +13,5 @@ Clean up the default home page on my team site by removing sections I don't need
 ## Steps
 
 ### 1. Open the site
+
+From the SharePoint start page, go to **Discover → Overview**. My site shows up under **Recent sites**. Click it.
