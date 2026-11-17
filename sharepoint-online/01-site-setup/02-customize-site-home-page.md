@@ -22,3 +22,4 @@ From the SharePoint start page, go to **Discover → Overview**. My site shows u
 
 A new team site home page comes with these sections:
 - **News**
+- **Activity**
