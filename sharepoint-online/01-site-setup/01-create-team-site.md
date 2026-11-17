@@ -37,6 +37,7 @@ Click **Build**.
 
 Under **Start building**, you can create a Site, List, Document library or Agent. Click **Site**.
 
+### 5. Pick a template
 
 
 
