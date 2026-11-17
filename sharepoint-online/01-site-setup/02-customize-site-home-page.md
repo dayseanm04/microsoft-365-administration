@@ -36,6 +36,7 @@ Click **Edit** (top right). The page switches to edit mode and the **Toolbox** o
 
 ### 4. Look at a web part's settings
 
+Click the **News** section, then click **Edit properties** (the slider icon in the small toolbar).
 
 
 
