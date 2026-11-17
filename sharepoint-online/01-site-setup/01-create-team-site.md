@@ -75,6 +75,8 @@ Notes:
 
 ### 8. Create the site
 
+Click **Create site**. When it says "Your site is ready," you can add owners and members right away, or skip that and do it later. Click **Go to site**.
+
 
 
 
