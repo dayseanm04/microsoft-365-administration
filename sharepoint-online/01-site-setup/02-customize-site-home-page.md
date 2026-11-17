@@ -11,3 +11,5 @@ Clean up the default home page on my team site by removing sections I don't need
 ---
 
 ## Steps
+
+### 1. Open the site
