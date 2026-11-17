@@ -47,6 +47,7 @@ The settings panel opens on the right. Some of what you can change:
 <img width="358" height="853" alt="5" src="https://github.com/user-attachments/assets/48fa8cfb-4ab6-455a-a252-a31d7e87a676" />
 
 | Setting | Options |
+|---|---|
 
 
 
