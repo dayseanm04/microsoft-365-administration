@@ -53,6 +53,7 @@ The settings panel opens on the right. Some of what you can change:
 | Show / hide | Title, commands, author, published date, number of views |
 | Filter | Show only news whose title includes certain words |
 | Audience targeting | Show news only to certain groups |
+| Organize | Set the order news posts appear in |
 
 
 
