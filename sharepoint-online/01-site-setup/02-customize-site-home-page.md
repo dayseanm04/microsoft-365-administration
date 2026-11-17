@@ -38,6 +38,7 @@ Click **Edit** (top right). The page switches to edit mode and the **Toolbox** o
 
 Click the **News** section, then click **Edit properties** (the slider icon in the small toolbar).
 
+<img width="672" height="219" alt="4" src="https://github.com/user-attachments/assets/62eebf85-3676-446d-ac9f-b947934b3d6e" />
 
 
 
