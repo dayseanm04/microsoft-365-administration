@@ -77,6 +77,7 @@ Notes:
 
 Click **Create site**. When it says "Your site is ready," you can add owners and members right away, or skip that and do it later. Click **Go to site**.
 
+<img width="1031" height="684" alt="8" src="https://github.com/user-attachments/assets/5c28504b-2fca-4dd0-a3ed-6b7c69138fe0" />
 
 
 
