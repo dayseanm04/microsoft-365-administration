@@ -106,3 +106,5 @@ Click **Publish changes**. A box comes up saying "Ready to republish?" because t
 ## Result
 
 The home page now has one full-width column with **Quick links** and **Documents**. The **News** and **Activity** sections are gone.
+
+<img width="1327" height="745" alt="14" src="https://github.com/user-attachments/assets/826d0d33-5105-4d4d-9ff3-aaa467c937d8" />
