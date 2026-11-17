@@ -8,3 +8,5 @@ Create a private team site to use as my practice lab for learning SharePoint adm
 - Since it's a school tenant and not an admin account, I don't have access to every feature (no SharePoint admin center)
 
 ---
+
+## Steps
