@@ -60,7 +60,8 @@ The Standard team template comes with one home page that shows team activity, ne
 
 <img width="1292" height="995" alt="7" src="https://github.com/user-attachments/assets/3056129c-14b9-4cc2-8572-b08f24f03415" />
 
-
+| Field | What I entered |
+|---|---|
 
 
 
