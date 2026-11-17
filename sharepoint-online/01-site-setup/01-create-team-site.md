@@ -43,6 +43,7 @@ There are two site types:
 
 | Type | Used for |
 |---|---|
+| **Team site** | A shared workspace where members work on content together. Connected to a Microsoft 365 group |
 
 
 
