@@ -48,6 +48,7 @@ The settings panel opens on the right. Some of what you can change:
 
 | Setting | Options |
 |---|---|
+| News source | This site, Select sites, Recommended for current user |
 
 
 
