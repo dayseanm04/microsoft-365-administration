@@ -71,7 +71,7 @@ The Standard team template comes with one home page that shows team activity, ne
 
 Notes:
 - A team site creates a **Microsoft 365 group** with it, so the site also gets a shared OneNote notebook, a group email address and a team calendar.
-
+- The **language can't be changed** after the site is created.
 
 
 
