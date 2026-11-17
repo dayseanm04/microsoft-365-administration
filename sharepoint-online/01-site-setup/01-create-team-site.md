@@ -86,6 +86,7 @@ Click **Create site**. When it says "Your site is ready," you can add owners and
 ## Result
 The site was created as a **private group with 1 member** (me). The home page comes with:
 - **Left navigation:** Home, Conversations, Documents, Notebook, Pages, Site contents, Recycle bin
+- **Home page sections:** News, Quick links, Documents, Activity
 
 
 
