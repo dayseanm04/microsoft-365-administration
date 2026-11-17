@@ -25,6 +25,8 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 ### 3. Go to Build
 
-The SharePoint start page has four tabs on the left: **Discover**, **Publish**, **Build** and **OneDrive**. Click **Build**.
+The SharePoint start page has four tabs on the left: **Discover**, **Publish**, **Build** and **OneDrive**. 
 
 <img width="1025" height="612" alt="3" src="https://github.com/user-attachments/assets/776f7a27-75c7-4957-82f6-ad2b285a7dd3" />
+
+Click **Build**.
