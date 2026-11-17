@@ -6,3 +6,4 @@ Clean up the default home page on my team site by removing sections I don't need
 
 ## Environment
 - Microsoft 365 through my school account
+- Site: SharePoint Practice Lab (team site from [**01 - Create a Team Site**](01-create-team-site.md))
