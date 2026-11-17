@@ -78,5 +78,6 @@ Click a section, then click and hold the **6 dots** (top left of the small toolb
 
 ### 7. Delete the Activity web part
 
+Click the **Activity** section and click the **trash can** to delete it, same as the News section.
 
 
