@@ -67,6 +67,7 @@ The Standard team template comes with one home page that shows team activity, ne
 | Group email address | SharePointPracticeLab-Daysean |
 | Site address | `https://<tenant>.sharepoint.com/sites/SharePointPracticeLab-Daysean` |
 | Privacy | Private - only members can access this site |
+| Language | English |
 
 
 
