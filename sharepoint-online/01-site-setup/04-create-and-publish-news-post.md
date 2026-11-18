@@ -33,4 +33,22 @@ Click **Create → News post**. (The other option, **Page**, is for regular page
 
 ### 3. Pick a template
 
-The **Template gallery** has templates like Visual topic introduction, Topic overview, Monthly news update, Article and Resources. I searched for and picked **Organization-wide update**, which is made for sharing announcements and updates. Click **Use this template**.
+The **Template gallery** has templates like Visual topic introduction, Topic overview, Monthly news update, Article and Resources. I searched for and picked **Organization-wide update**, which is made for sharing announcements and updates. 
+
+<img width="1021" height="697" alt="5" src="https://github.com/user-attachments/assets/dd8c511d-a01b-433e-ba57-14793af034b7" />
+
+
+Click **Use this template**.
+
+
+
+
+
+
+
+
+
+
+
+
+
