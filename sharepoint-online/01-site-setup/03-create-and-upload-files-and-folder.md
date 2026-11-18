@@ -32,4 +32,5 @@ On the site home page, the **Documents** section is the site's document library.
 
 <img width="1156" height="691" alt="4" src="https://github.com/user-attachments/assets/cc28bb76-1bf2-48cd-94a3-f18fae1639f9" />
 
+### 3. Open the Create or upload menu
 
