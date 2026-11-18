@@ -46,6 +46,7 @@ Click the **Quick links** section and click the **trash can** to delete it.
 
 Hover at the top of the page and click **+ Section**. Section options include Flexible, One column, Two columns, Three columns, One-third left, One-third right, Full-width and Vertical. I picked **Flexible**.
 
+<img width="938" height="313" alt="7" src="https://github.com/user-attachments/assets/6d044619-94a1-41e5-a620-9741922725ed" />
 
 
 
