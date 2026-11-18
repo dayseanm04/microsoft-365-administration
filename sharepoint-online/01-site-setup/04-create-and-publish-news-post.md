@@ -63,5 +63,7 @@ The template comes with sample content ("Highlights from last fiscal year"). Cli
 
 Click the first section and open **Properties**. Under **Columns**, I changed it from **Two columns** to **One column**.
 
+<img width="821" height="485" alt="12" src="https://github.com/user-attachments/assets/7a399508-801e-45c8-8eaf-592e2e272f15" />
+
 
 
