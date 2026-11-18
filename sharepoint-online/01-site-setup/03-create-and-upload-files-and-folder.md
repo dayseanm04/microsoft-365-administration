@@ -49,6 +49,7 @@ You can also **drag and drop** files from your computer straight into the librar
 
 ### 4. Create a folder
 
+Select **Folder**, give it a name, pick a folder color, and click **Create**.
 
 
 
