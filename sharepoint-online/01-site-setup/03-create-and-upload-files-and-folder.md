@@ -34,3 +34,26 @@ On the site home page, the **Documents** section is the site's document library.
 
 ### 3. Open the Create or upload menu
 
+Click **Create or upload**. Everything for adding files and folders is in this one menu:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
