@@ -24,4 +24,8 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 <img width="917" height="557" alt="2" src="https://github.com/user-attachments/assets/4705d4a8-994b-4468-894f-4ec067e0f3ce" />
 
+### 2. Find the document library
+
+On the site home page, the **Documents** section is the site's document library. It's empty for now ("Your files will show up here").
+
 <img width="1025" height="612" alt="3" src="https://github.com/user-attachments/assets/776f7a27-75c7-4957-82f6-ad2b285a7dd3" />
