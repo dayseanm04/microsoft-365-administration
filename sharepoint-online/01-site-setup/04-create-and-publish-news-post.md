@@ -99,5 +99,6 @@ I named it **Quick Guide: How to Upload Files and Folders to SharePoint**. The p
 
 ### 10. Publish
 
+Click **Publish news**.
 
 
