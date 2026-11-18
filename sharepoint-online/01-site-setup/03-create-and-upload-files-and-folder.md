@@ -57,6 +57,7 @@ Select **Folder**, give it a name, pick a folder color, and click **Create**.
 
 I repeated step 4 to make three folders:
 
+<img width="1176" height="811" alt="7" src="https://github.com/user-attachments/assets/6fb17f49-74cf-429b-b69c-4f6914d10f3b" />
 
 
 
