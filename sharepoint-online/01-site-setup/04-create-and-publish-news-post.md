@@ -27,4 +27,6 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 ### 1. Go to Publish
 
+Click **Create → News post**. (The other option, **Page**, is for regular pages that don't show up as news.)
+
 <img width="910" height="477" alt="4" src="https://github.com/user-attachments/assets/25516d2a-9c3a-44ef-a6ee-c492d23ed278" />
