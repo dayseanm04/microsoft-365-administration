@@ -82,6 +82,8 @@ I wrote out the steps for uploading a file or folder, plus these sections:
 | Section | What it says |
 |---|---|
 | **Permissions & Access** | You need edit permissions to upload. If you only have Read access or get "Access Denied," request access from the site owner |
+| **Quick Reminders** | Don't use special characters (`/ \ ? * : < > \|`) in file names, since they cause sync errors in the OneDrive app |
+| **Support** | Email the help desk with a screenshot if something breaks |
 
 
 
