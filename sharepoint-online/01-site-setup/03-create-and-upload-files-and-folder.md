@@ -13,3 +13,5 @@ Set up folders in my site's document library and add files to them. Creating and
 ## Steps
 
 ### 1. Sign in to Microsoft 365
+
+Go to [https://m365.cloud.microsoft](https://m365.cloud.microsoft) and sign in.
