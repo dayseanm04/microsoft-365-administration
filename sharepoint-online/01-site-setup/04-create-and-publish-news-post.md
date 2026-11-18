@@ -47,6 +47,7 @@ Click **Use this template**.
 
 In **Choose where to create**, select the site (SharePoint Practice Lab) and click **Create**. This opens the news post in edit mode.
 
+<img width="528" height="302" alt="8" src="https://github.com/user-attachments/assets/c5169fc2-9a13-4b86-8d71-93848ebe3178" />
 
 
 
