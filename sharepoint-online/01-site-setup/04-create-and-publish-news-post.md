@@ -11,3 +11,4 @@ Create and publish a news post on my site. I used it to post a quick guide for p
 
 ---
 
+### 1. Sign in to Microsoft 365
