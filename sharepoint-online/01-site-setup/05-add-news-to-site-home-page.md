@@ -58,6 +58,8 @@ Click the **Toolbox** icon on the right and select **News** under Web parts. My 
 
 <img width="708" height="618" alt="10" src="https://github.com/user-attachments/assets/73a54534-1c86-4032-b0a7-662383cf012f" />
 
+### 5. Pick a layout
+
 
 
 
