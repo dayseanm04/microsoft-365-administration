@@ -45,6 +45,8 @@ Click **Create or upload**. Everything for adding files and folders is in this o
 | **Folder upload** | Upload a whole folder from your computer |
 | **Word, Excel, PowerPoint, OneNote, Forms, Visio, Markdown, Text, Clipchamp** | Create a new blank file of that type right in the library |
 
+You can also **drag and drop** files from your computer straight into the library.
+
 
 
 
