@@ -52,6 +52,7 @@ Hover at the top of the page and click **+ Section**. Section options include Fl
 
 ### 4. Add the News web part
 
+Click the **Toolbox** icon on the right and select **News** under Web parts. My news post shows up right away.
 
 
 
