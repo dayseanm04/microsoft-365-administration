@@ -61,6 +61,7 @@ The template comes with sample content ("Highlights from last fiscal year"). Cli
 
 ### 6. Change the section layout
 
+Click the first section and open **Properties**. Under **Columns**, I changed it from **Two columns** to **One column**.
 
 
 
