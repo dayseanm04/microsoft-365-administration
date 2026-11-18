@@ -49,6 +49,8 @@ In **Choose where to create**, select the site (SharePoint Practice Lab) and cli
 
 <img width="528" height="302" alt="8" src="https://github.com/user-attachments/assets/c5169fc2-9a13-4b86-8d71-93848ebe3178" />
 
+<img width="473" height="282" alt="9" src="https://github.com/user-attachments/assets/eb7132ff-07ec-4e40-b9fd-6ff82d28ee07" />
+
 
 
 
