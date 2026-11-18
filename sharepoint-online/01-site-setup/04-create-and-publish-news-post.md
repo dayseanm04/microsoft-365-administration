@@ -67,4 +67,6 @@ Click the first section and open **Properties**. Under **Columns**, I changed it
 
 ### 7. Add an image
 
+Hover under a section and click the **+** (Add a new web part), then select **Image**. In **Pick a file**, you can choose from the site, stock images, a link, or your computer. I uploaded a screenshot from my device.
+
 
