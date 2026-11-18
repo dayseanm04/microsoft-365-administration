@@ -43,6 +43,7 @@ Click **Use this template**.
 
 <img width="973" height="614" alt="7" src="https://github.com/user-attachments/assets/49a76294-8055-44bd-b733-a9115315effe" />
 
+### 4. Choose the site
 
 
 
