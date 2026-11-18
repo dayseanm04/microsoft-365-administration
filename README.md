@@ -7,3 +7,4 @@ I'm doing this to build hands-on Microsoft 365 skills for my IT internship and f
 ## Environment
 
 - **Tenant:** Microsoft 365 through my school account
+- **Limits:** I don't have admin rights on the tenant, so some features (like the SharePoint and Microsoft 365 admin centers) aren't available. Where that matters, I note it in that section.
