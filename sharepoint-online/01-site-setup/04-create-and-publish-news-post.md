@@ -93,6 +93,7 @@ When I clicked **Publish news**, SharePoint said **"Add a page title to continue
 
 <img width="355" height="235" alt="17" src="https://github.com/user-attachments/assets/985357fd-4f73-4cd9-ada0-af04f5b3579a" />
 
+<img width="912" height="415" alt="18" src="https://github.com/user-attachments/assets/5c7f6774-c594-42cc-8df6-a143f960ae87" />
 
 
 
