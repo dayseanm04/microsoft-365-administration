@@ -56,6 +56,7 @@ Click the **Toolbox** icon on the right and select **News** under Web parts. My 
 
 <img width="681" height="398" alt="9" src="https://github.com/user-attachments/assets/51d83ca7-317c-480d-9b73-ee5056d89d1f" />
 
+<img width="708" height="618" alt="10" src="https://github.com/user-attachments/assets/73a54534-1c86-4032-b0a7-662383cf012f" />
 
 
 
