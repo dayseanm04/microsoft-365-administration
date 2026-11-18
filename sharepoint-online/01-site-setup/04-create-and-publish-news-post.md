@@ -101,4 +101,5 @@ I named it **Quick Guide: How to Upload Files and Folders to SharePoint**. The p
 
 Click **Publish news**.
 
+---
 
