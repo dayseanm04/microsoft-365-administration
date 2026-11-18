@@ -42,7 +42,7 @@ Click the **Quick links** section and click the **trash can** to delete it.
 
 <img width="949" height="447" alt="6" src="https://github.com/user-attachments/assets/54c1b642-af6e-4e35-8b69-3fde11ec765a" />
 
-### 3. Add a new section
+### 5. Add a new section
 
 Hover at the top of the page and click **+ Section**. Section options include Flexible, One column, Two columns, Three columns, One-third left, One-third right, Full-width and Vertical. I picked **Flexible**.
 
@@ -50,8 +50,7 @@ Hover at the top of the page and click **+ Section**. Section options include Fl
 
 <img width="322" height="219" alt="8" src="https://github.com/user-attachments/assets/566d42e2-faa8-4898-91a1-67047053cd51" />
 
-### 3. Add a new section
-
+### 4. Add the News web part
 
 
 
