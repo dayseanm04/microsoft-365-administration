@@ -53,6 +53,7 @@ In **Choose where to create**, select the site (SharePoint Practice Lab) and cli
 
 ### 5. Edit the heading
 
+The template comes with sample content ("Highlights from last fiscal year"). Click the heading and type your own. I changed it to **How to upload a file/folder to SharePoint**.
 
 
 
