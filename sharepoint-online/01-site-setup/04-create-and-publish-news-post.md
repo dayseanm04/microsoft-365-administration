@@ -89,6 +89,7 @@ I wrote out the steps for uploading a file or folder, plus these sections:
 
 When I clicked **Publish news**, SharePoint said **"Add a page title to continue."** The page title is separate from the heading on the page, and it's used in the page's URL. Click **Close**, then click the page name at the top left and fill in **Name**.
 
+<img width="1030" height="630" alt="16" src="https://github.com/user-attachments/assets/2f3dda15-2996-401b-b19c-2fab5d932ece" />
 
 
 
