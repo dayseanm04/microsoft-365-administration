@@ -33,3 +33,4 @@ Click **Create → News post**. (The other option, **Page**, is for regular page
 
 ### 3. Pick a template
 
+The **Template gallery** has templates like Visual topic introduction, Topic overview, Monthly news update, Article and Resources. I searched for and picked **Organization-wide update**, which is made for sharing announcements and updates. Click **Use this template**.
