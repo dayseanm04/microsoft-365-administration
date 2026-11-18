@@ -97,7 +97,7 @@ I named it **Quick Guide: How to Upload Files and Folders to SharePoint**. The p
 
 <img width="912" height="415" alt="18" src="https://github.com/user-attachments/assets/5c7f6774-c594-42cc-8df6-a143f960ae87" />
 
-
+### 10. Publish
 
 
 
