@@ -47,6 +47,7 @@ Click **Create or upload**. Everything for adding files and folders is in this o
 
 You can also **drag and drop** files from your computer straight into the library.
 
+### 4. Create a folder
 
 
 
