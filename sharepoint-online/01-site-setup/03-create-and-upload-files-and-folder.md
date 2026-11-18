@@ -51,6 +51,7 @@ You can also **drag and drop** files from your computer straight into the librar
 
 Select **Folder**, give it a name, pick a folder color, and click **Create**.
 
+<img width="686" height="408" alt="6" src="https://github.com/user-attachments/assets/ac1ad59b-5c11-4498-a1e8-fa326487fc39" />
 
 
 
