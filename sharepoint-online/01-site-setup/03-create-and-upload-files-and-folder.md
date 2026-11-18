@@ -9,3 +9,5 @@ Set up folders in my site's document library and add files to them. Creating and
 - Site: SharePoint Practice Lab (team site from [**01 - Create a Team Site**](01-create-team-site.md))
 
 ---
+
+## Steps
