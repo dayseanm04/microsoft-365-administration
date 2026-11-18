@@ -81,7 +81,7 @@ I wrote out the steps for uploading a file or folder, plus these sections:
 
 | Section | What it says |
 |---|---|
-
+| **Permissions & Access** | You need edit permissions to upload. If you only have Read access or get "Access Denied," request access from the site owner |
 
 
 
