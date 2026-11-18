@@ -5,3 +5,5 @@ A Microsoft 365 admin project covering SharePoint, Teams, OneDrive and more. Eac
 I'm doing this to build hands-on Microsoft 365 skills for my IT internship and for roles in systems administration.
 
 ## Environment
+
+- **Tenant:** Microsoft 365 through my school account
