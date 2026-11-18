@@ -38,6 +38,7 @@ Open the site from **Recent sites** on the SharePoint start page, then click **E
 
 ### 4. Remove the Quick links web part
 
+Click the **Quick links** section and click the **trash can** to delete it.
 
 
 
