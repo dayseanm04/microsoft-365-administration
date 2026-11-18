@@ -40,6 +40,7 @@ Open the site from **Recent sites** on the SharePoint start page, then click **E
 
 Click the **Quick links** section and click the **trash can** to delete it.
 
+<img width="949" height="447" alt="6" src="https://github.com/user-attachments/assets/54c1b642-af6e-4e35-8b69-3fde11ec765a" />
 
 
 
