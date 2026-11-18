@@ -84,6 +84,7 @@ Click **Publish changes**, then **Republish**.
 
 ## Result
 
+The site home page now shows my **Quick Guide: How to Upload Files and Folders to SharePoint** post as the top story, with the Documents library underneath.
 
 
 
