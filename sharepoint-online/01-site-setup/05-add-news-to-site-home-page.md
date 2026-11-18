@@ -27,3 +27,5 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 <img width="917" height="557" alt="2" src="https://github.com/user-attachments/assets/4705d4a8-994b-4468-894f-4ec067e0f3ce" />
 
 <img width="1096" height="682" alt="3" src="https://github.com/user-attachments/assets/eaee35ee-70a2-4390-bac4-c22869ae16a8" />
+
+### 3. Open the site and go into edit mode
