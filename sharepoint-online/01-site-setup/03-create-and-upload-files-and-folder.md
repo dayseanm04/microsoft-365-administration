@@ -55,6 +55,7 @@ Select **Folder**, give it a name, pick a folder color, and click **Create**.
 
 ### 5. Create more folders
 
+I repeated step 4 to make three folders:
 
 
 
