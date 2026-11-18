@@ -75,6 +75,7 @@ Hover under a section and click the **+** (Add a new web part), then select **Im
 
 <img width="869" height="489" alt="15" src="https://github.com/user-attachments/assets/e86af577-a32b-4010-84c7-e8f31a011041" />
 
+### 8. Write the post
 
 
 
