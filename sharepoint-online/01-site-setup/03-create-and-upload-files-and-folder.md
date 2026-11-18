@@ -42,6 +42,7 @@ Click **Create or upload**. Everything for adding files and folders is in this o
 |---|---|
 | **Folder** | Create a new empty folder |
 | **Files upload** | Upload files from your computer |
+| **Folder upload** | Upload a whole folder from your computer |
 
 
 
