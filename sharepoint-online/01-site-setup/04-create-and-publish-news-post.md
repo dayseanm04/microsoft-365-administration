@@ -71,6 +71,7 @@ Hover under a section and click the **+** (Add a new web part), then select **Im
 
 <img width="623" height="219" alt="13" src="https://github.com/user-attachments/assets/752dd81e-23ce-492b-bb94-b07daae93f1d" />
 
+<img width="593" height="267" alt="14" src="https://github.com/user-attachments/assets/7a1493bb-5deb-4d0c-abf9-b17f9035e593" />
 
 
 
