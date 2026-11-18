@@ -8,3 +8,6 @@ Create and publish a news post on my site. I used it to post a quick guide for p
 
 - Microsoft 365 through my school account
 - Site: SharePoint Practice Lab (team site from [**01 - Create a Team Site**](01-create-team-site.md))
+
+---
+
