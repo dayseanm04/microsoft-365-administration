@@ -62,5 +62,7 @@ Click the **Toolbox** icon on the right and select **News** under Web parts. My 
 
 Click **Layout options** in the small toolbar. Options are Top story, List, Side-by-side, Hub News, Carousel, Tiles and Filmstrip. I picked **Top story** so the post is big and easy to see.
 
+<img width="697" height="724" alt="11" src="https://github.com/user-attachments/assets/aa5a417d-ba0f-4c7e-b8f0-e9a37c313079" />
+
 
 
