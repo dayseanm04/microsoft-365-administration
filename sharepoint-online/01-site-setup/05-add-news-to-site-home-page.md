@@ -44,6 +44,7 @@ Click the **Quick links** section and click the **trash can** to delete it.
 
 ### 3. Add a new section
 
+Hover at the top of the page and click **+ Section**. Section options include Flexible, One column, Two columns, Three columns, One-third left, One-third right, Full-width and Vertical. I picked **Flexible**.
 
 
 
