@@ -39,9 +39,9 @@ The **Template gallery** has templates like Visual topic introduction, Topic ove
 
 <img width="1244" height="545" alt="6" src="https://github.com/user-attachments/assets/6ac82212-63cc-411f-9883-c572a0f4e6ce" />
 
-
 Click **Use this template**.
 
+<img width="973" height="614" alt="7" src="https://github.com/user-attachments/assets/49a76294-8055-44bd-b733-a9115315effe" />
 
 
 
