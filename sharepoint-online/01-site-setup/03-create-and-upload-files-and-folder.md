@@ -11,3 +11,5 @@ Set up folders in my site's document library and add files to them. Creating and
 ---
 
 ## Steps
+
+### 1. Sign in to Microsoft 365
