@@ -107,5 +107,6 @@ Click **Publish news**.
 
 The news post is live 
 
+<img width="1015" height="958" alt="19" src="https://github.com/user-attachments/assets/717db1c9-45ef-46f0-93f1-fc736a9f8348" />
 
 
