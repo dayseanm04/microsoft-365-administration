@@ -20,3 +20,4 @@ Go to [https://m365.cloud.microsoft](https://m365.cloud.microsoft) and sign in.
 
 ### 2. Open SharePoint
 
+Click the app launcher (the 9 dots, top left) and select **SharePoint**.
