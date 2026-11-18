@@ -11,3 +11,5 @@ I'm doing this to build hands-on Microsoft 365 skills for my IT internship and f
 - **Privacy:** Tenant names, emails and URLs are blurred or replaced with `<tenant>` in screenshots and notes.
 
 ## Services
+
+| Service | What it covers | Status |
