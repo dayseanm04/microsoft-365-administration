@@ -34,6 +34,7 @@ Open the site from **Recent sites** on the SharePoint start page, then click **E
 
 <img width="1370" height="620" alt="4" src="https://github.com/user-attachments/assets/c24b019e-46ff-444e-af4d-a612f2ed427e" />
 
+<img width="454" height="151" alt="5" src="https://github.com/user-attachments/assets/094070a7-34dd-4e82-9471-7b3da455b464" />
 
 
 
