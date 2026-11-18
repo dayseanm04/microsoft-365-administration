@@ -13,3 +13,5 @@ Show my news post on the site home page so it's the first thing people see when 
 ---
 
 ## Steps
+
+### 1. Sign in to Microsoft 365
