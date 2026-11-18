@@ -54,6 +54,7 @@ Hover at the top of the page and click **+ Section**. Section options include Fl
 
 Click the **Toolbox** icon on the right and select **News** under Web parts. My news post shows up right away.
 
+<img width="681" height="398" alt="9" src="https://github.com/user-attachments/assets/51d83ca7-317c-480d-9b73-ee5056d89d1f" />
 
 
 
