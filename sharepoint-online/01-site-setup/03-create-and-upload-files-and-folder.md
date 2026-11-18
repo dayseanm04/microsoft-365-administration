@@ -40,6 +40,7 @@ Click **Create or upload**. Everything for adding files and folders is in this o
 
 | Option | What it does |
 |---|---|
+| **Folder** | Create a new empty folder |
 
 
 
