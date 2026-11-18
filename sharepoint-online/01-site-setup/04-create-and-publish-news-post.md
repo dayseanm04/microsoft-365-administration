@@ -59,6 +59,7 @@ The template comes with sample content ("Highlights from last fiscal year"). Cli
 
 <img width="731" height="509" alt="11" src="https://github.com/user-attachments/assets/bc6b4bfe-07ec-4e2b-82b2-fdc6a37b8bdc" />
 
+### 6. Change the section layout
 
 
 
