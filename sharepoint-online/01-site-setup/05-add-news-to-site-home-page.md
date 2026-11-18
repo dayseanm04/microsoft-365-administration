@@ -32,4 +32,20 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 Open the site from **Recent sites** on the SharePoint start page, then click **Edit** (top right).
 
+<img width="1370" height="620" alt="4" src="https://github.com/user-attachments/assets/c24b019e-46ff-444e-af4d-a612f2ed427e" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
