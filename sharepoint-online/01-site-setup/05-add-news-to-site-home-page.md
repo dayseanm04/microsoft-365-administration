@@ -7,3 +7,4 @@ Show my news post on the site home page so it's the first thing people see when 
 ## Environment
 
 - Microsoft 365 through my school account
+- Site: SharePoint Practice Lab (team site from [**01 - Create a Team Site**](01-create-team-site.md))
