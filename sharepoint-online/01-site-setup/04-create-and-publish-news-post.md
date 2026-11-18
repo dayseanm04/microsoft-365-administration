@@ -104,3 +104,8 @@ Click **Publish news**.
 ---
 
 ## Result
+
+The news post is live 
+
+
+
