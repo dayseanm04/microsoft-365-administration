@@ -45,6 +45,7 @@ Click **Use this template**.
 
 ### 4. Choose the site
 
+In **Choose where to create**, select the site (SharePoint Practice Lab) and click **Create**. This opens the news post in edit mode.
 
 
 
