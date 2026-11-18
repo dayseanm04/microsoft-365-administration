@@ -11,3 +11,5 @@ Show my news post on the site home page so it's the first thing people see when 
 - News post from [**04 - Create a News Post**](04-create-news-post.md)
 
 ---
+
+## Steps
