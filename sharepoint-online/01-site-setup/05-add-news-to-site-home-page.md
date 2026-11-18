@@ -36,6 +36,7 @@ Open the site from **Recent sites** on the SharePoint start page, then click **E
 
 <img width="454" height="151" alt="5" src="https://github.com/user-attachments/assets/094070a7-34dd-4e82-9471-7b3da455b464" />
 
+### 4. Remove the Quick links web part
 
 
 
