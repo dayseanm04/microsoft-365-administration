@@ -64,7 +64,7 @@ Click **Layout options** in the small toolbar. Options are Top story, List, Side
 
 <img width="697" height="724" alt="11" src="https://github.com/user-attachments/assets/aa5a417d-ba0f-4c7e-b8f0-e9a37c313079" />
 
-### 6. Hide the "+ Add" button
+### 8. Hide the "+ Add" button
 
 The News section shows a **+ Add** button by default. Open **Edit properties** and, under **Layout**, turn **Show commands** off. This hides the button so visitors just see the news.
 
@@ -72,7 +72,9 @@ The News section shows a **+ Add** button by default. Open **Edit properties** a
 
 <img width="239" height="112" alt="13" src="https://github.com/user-attachments/assets/1a380bd0-ef2a-48b0-9560-e79a1229abef" />
 
+### 9. Publish
 
+Click **Publish changes**, then **Republish**.
 
 
 
