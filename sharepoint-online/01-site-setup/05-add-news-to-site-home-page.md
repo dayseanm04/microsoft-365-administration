@@ -60,6 +60,7 @@ Click the **Toolbox** icon on the right and select **News** under Web parts. My 
 
 ### 5. Pick a layout
 
+Click **Layout options** in the small toolbar. Options are Top story, List, Side-by-side, Hub News, Carousel, Tiles and Filmstrip. I picked **Top story** so the post is big and easy to see.
 
 
 
