@@ -37,6 +37,8 @@ The **Template gallery** has templates like Visual topic introduction, Topic ove
 
 <img width="1021" height="697" alt="5" src="https://github.com/user-attachments/assets/dd8c511d-a01b-433e-ba57-14793af034b7" />
 
+<img width="1244" height="545" alt="6" src="https://github.com/user-attachments/assets/6ac82212-63cc-411f-9883-c572a0f4e6ce" />
+
 
 Click **Use this template**.
 
