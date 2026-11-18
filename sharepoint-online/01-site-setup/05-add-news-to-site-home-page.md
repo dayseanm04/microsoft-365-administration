@@ -68,3 +68,28 @@ Click **Layout options** in the small toolbar. Options are Top story, List, Side
 
 The News section shows a **+ Add** button by default. Open **Edit properties** and, under **Layout**, turn **Show commands** off. This hides the button so visitors just see the news.
 
+<img width="532" height="284" alt="12" src="https://github.com/user-attachments/assets/b3549c58-b944-428a-8ed0-25c66b339b34" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
