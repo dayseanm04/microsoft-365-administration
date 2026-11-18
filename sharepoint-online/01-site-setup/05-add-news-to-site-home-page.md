@@ -70,6 +70,7 @@ The News section shows a **+ Add** button by default. Open **Edit properties** a
 
 <img width="532" height="284" alt="12" src="https://github.com/user-attachments/assets/b3549c58-b944-428a-8ed0-25c66b339b34" />
 
+<img width="239" height="112" alt="13" src="https://github.com/user-attachments/assets/1a380bd0-ef2a-48b0-9560-e79a1229abef" />
 
 
 
