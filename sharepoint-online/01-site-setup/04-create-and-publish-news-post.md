@@ -103,3 +103,4 @@ Click **Publish news**.
 
 ---
 
+## Result
