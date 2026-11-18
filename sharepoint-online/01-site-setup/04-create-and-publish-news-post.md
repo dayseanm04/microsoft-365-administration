@@ -57,6 +57,7 @@ The template comes with sample content ("Highlights from last fiscal year"). Cli
 
 <img width="1243" height="722" alt="10" src="https://github.com/user-attachments/assets/850c112d-500d-4c32-b772-ba8c80b1eeac" />
 
+<img width="731" height="509" alt="11" src="https://github.com/user-attachments/assets/bc6b4bfe-07ec-4e2b-82b2-fdc6a37b8bdc" />
 
 
 
