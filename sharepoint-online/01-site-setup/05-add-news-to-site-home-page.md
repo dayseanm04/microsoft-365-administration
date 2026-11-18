@@ -50,7 +50,7 @@ Hover at the top of the page and click **+ Section**. Section options include Fl
 
 <img width="322" height="219" alt="8" src="https://github.com/user-attachments/assets/566d42e2-faa8-4898-91a1-67047053cd51" />
 
-### 4. Add the News web part
+### 6. Add the News web part
 
 Click the **Toolbox** icon on the right and select **News** under Web parts. My news post shows up right away.
 
@@ -58,11 +58,12 @@ Click the **Toolbox** icon on the right and select **News** under Web parts. My 
 
 <img width="708" height="618" alt="10" src="https://github.com/user-attachments/assets/73a54534-1c86-4032-b0a7-662383cf012f" />
 
-### 5. Pick a layout
+### 7. Pick a layout
 
 Click **Layout options** in the small toolbar. Options are Top story, List, Side-by-side, Hub News, Carousel, Tiles and Filmstrip. I picked **Top story** so the post is big and easy to see.
 
 <img width="697" height="724" alt="11" src="https://github.com/user-attachments/assets/aa5a417d-ba0f-4c7e-b8f0-e9a37c313079" />
 
+### 6. Hide the "+ Add" button
 
 
