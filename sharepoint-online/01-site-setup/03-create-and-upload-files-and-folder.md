@@ -36,6 +36,7 @@ On the site home page, the **Documents** section is the site's document library.
 
 Click **Create or upload**. Everything for adding files and folders is in this one menu:
 
+<img width="815" height="633" alt="5" src="https://github.com/user-attachments/assets/ffdec2b0-7719-451a-872c-bccadf8c65fc" />
 
 
 
