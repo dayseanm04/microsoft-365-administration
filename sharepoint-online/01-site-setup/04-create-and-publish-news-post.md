@@ -65,5 +65,6 @@ Click the first section and open **Properties**. Under **Columns**, I changed it
 
 <img width="821" height="485" alt="12" src="https://github.com/user-attachments/assets/7a399508-801e-45c8-8eaf-592e2e272f15" />
 
+### 7. Add an image
 
 
