@@ -14,4 +14,4 @@ I'm doing this to build hands-on Microsoft 365 skills for my IT internship and f
 
 | Service | What it covers | Status |
 |---|---|---|
-| [SharePoint Online](sharepoint-online/) | Creating a team site, customizing the site home page, document libraries, news | In progress |
+| [**SharePoint Online**](sharepoint-online/) | Creating a team site, customizing the site home page, document libraries, news | In progress |
