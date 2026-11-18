@@ -77,6 +77,7 @@ Hover under a section and click the **+** (Add a new web part), then select **Im
 
 ### 8. Write the post
 
+I wrote out the steps for uploading a file or folder, plus these sections:
 
 
 
