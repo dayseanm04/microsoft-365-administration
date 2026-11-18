@@ -87,6 +87,8 @@ I wrote out the steps for uploading a file or folder, plus these sections:
 
 ### 9. Name the post
 
+When I clicked **Publish news**, SharePoint said **"Add a page title to continue."** The page title is separate from the heading on the page, and it's used in the page's URL. Click **Close**, then click the page name at the top left and fill in **Name**.
+
 
 
 
