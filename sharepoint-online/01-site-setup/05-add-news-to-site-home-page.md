@@ -66,4 +66,5 @@ Click **Layout options** in the small toolbar. Options are Top story, List, Side
 
 ### 6. Hide the "+ Add" button
 
+The News section shows a **+ Add** button by default. Open **Edit properties** and, under **Layout**, turn **Show commands** off. This hides the button so visitors just see the news.
 
