@@ -51,6 +51,7 @@ In **Choose where to create**, select the site (SharePoint Practice Lab) and cli
 
 <img width="473" height="282" alt="9" src="https://github.com/user-attachments/assets/eb7132ff-07ec-4e40-b9fd-6ff82d28ee07" />
 
+### 5. Edit the heading
 
 
 
