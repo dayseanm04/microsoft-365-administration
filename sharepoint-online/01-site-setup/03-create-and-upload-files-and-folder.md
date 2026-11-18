@@ -63,13 +63,7 @@ I repeated step 4 to make three folders:
 
 ## Result
 
-
-
-
-
-
-
-
+The document library now has three folders: HR-Folder, Accounting-Folder and Policies.
 
 
 
