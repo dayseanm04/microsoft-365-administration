@@ -69,4 +69,19 @@ Click the first section and open **Properties**. Under **Columns**, I changed it
 
 Hover under a section and click the **+** (Add a new web part), then select **Image**. In **Pick a file**, you can choose from the site, stock images, a link, or your computer. I uploaded a screenshot from my device.
 
+<img width="623" height="219" alt="13" src="https://github.com/user-attachments/assets/752dd81e-23ce-492b-bb94-b07daae93f1d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
