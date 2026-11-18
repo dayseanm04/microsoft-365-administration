@@ -50,6 +50,7 @@ Hover at the top of the page and click **+ Section**. Section options include Fl
 
 <img width="322" height="219" alt="8" src="https://github.com/user-attachments/assets/566d42e2-faa8-4898-91a1-67047053cd51" />
 
+### 3. Add a new section
 
 
 
