@@ -38,6 +38,7 @@ Click **Create or upload**. Everything for adding files and folders is in this o
 
 <img width="815" height="633" alt="5" src="https://github.com/user-attachments/assets/ffdec2b0-7719-451a-872c-bccadf8c65fc" />
 
+| Option | What it does |
 
 
 
