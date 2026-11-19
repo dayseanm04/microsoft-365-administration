@@ -76,6 +76,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | **Home** | The site home page (what you're looking at) |
 | **Conversations** | The group's shared email inbox in Outlook |
 | **Documents** | The main **document library**, where team files are stored |
+| **Notebook** | The group's shared OneNote notebook |
 
 
 
