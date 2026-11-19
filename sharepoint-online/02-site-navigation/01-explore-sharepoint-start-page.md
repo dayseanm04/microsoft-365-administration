@@ -94,6 +94,7 @@ URL ends in `/build`
 | **Site** | Create a new site. This is where I made my practice site. If it's blocked, the organization has turned off self-service site creation |
 | **List** | Create a list, like a table for tracking tasks or equipment |
 | **Document library** | Create a place to store and manage files, with versioning and permissions |
+| **Agent** | A Copilot AI assistant that answers questions using SharePoint content. It may need a Copilot license |
 
 
 
