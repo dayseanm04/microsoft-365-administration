@@ -87,6 +87,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 <img width="991" height="129" alt="9" src="https://github.com/user-attachments/assets/2364efbe-05a0-4454-8674-46793f6534e8" />
 
 | Button | What it does |
+|---|---|
 
 
 
