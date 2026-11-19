@@ -94,6 +94,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | **Analytics** | Views and visitors for this page |
 | **Published** | Shows the page is live |
 | **Share** | Share **the site or page** with people. This is different from sharing one file |
+| **Expand arrows** | Full-width view |
 
 
 
