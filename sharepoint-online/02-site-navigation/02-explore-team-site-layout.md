@@ -97,7 +97,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | **Expand arrows** | Full-width view |
 | **Edit** | Edit the page: move, add or remove web parts |
 
-
+## 5. Page body (web parts)
 
 
 
