@@ -41,6 +41,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | **`/_layouts/15/sharepoint.aspx`** | The SharePoint **start page**. It's your personal starting point, not a site |
 | **`/discover`**, **`/publish`**, **`/build`**, **`/onedrive`** | Changes depending on which tab on the left you click |
 
+The start page isn't a site. It's a dashboard that points you to sites, files and tools. Real sites have URLs like **`cuny907.sharepoint.com/sites/SiteName`**.
 
 
 
