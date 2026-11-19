@@ -14,3 +14,5 @@ Learn what each part of a team site is, and where to go for common admin tasks.
 ---
 
 ### Sign in to Microsoft 365
+
+Go to [https://m365.cloud.microsoft](https://m365.cloud.microsoft) and sign in.
