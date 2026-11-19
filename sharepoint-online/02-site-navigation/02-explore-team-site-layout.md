@@ -8,3 +8,5 @@ Learn what each part of a team site is, and where to go for common admin tasks.
 - **Site:** SharePoint Practice Lab - Daysean
 - **URL:** **`cuny907.sharepoint.com/sites/SharePointPracticeLab-Daysean`**
 - **Type:** Team site, connected to a Microsoft 365 group (Private)
+
+> **Note:** This is the default layout right after I created the site, before I customized the home page in [01-site-setup](../01-site-setup/).
