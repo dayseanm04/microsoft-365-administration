@@ -101,6 +101,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 Note: this is before I create my team site:
 
+<img width="858" height="581" alt="10" src="https://github.com/user-attachments/assets/07d98ef2-7729-40b8-a271-73b701290b7b" />
 
 
 
