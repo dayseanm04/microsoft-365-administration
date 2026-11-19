@@ -38,6 +38,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 |---|---|
 | **`cuny907`** | The school's **tenant name**. Every company has its own. At the internship it'll be `companyname.sharepoint.com` |
 | **`sharepoint.com`** | This is **SharePoint Online**, the cloud version |
+| **`/_layouts/15/sharepoint.aspx`** | The SharePoint **start page**. It's your personal starting point, not a site |
 
 
 
