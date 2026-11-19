@@ -56,7 +56,7 @@ The start page isn't a site. It's a dashboard that points you to sites, files an
 
 ## 3. Left rail: the four main areas
 
-<img width="796" height="508" alt="2" src="https://github.com/user-attachments/assets/22d5bdcc-fd29-49d8-8537-bf0dc77a3d44" />
+<img width="796" height="508" alt="5" src="https://github.com/user-attachments/assets/22d5bdcc-fd29-49d8-8537-bf0dc77a3d44" />
 
 | Option | What it shows |
 |---|---|
@@ -72,6 +72,7 @@ The start page isn't a site. It's a dashboard that points you to sites, files an
 
 URL ends in `/publish`
 
+<img width="829" height="659" alt="6" src="https://github.com/user-attachments/assets/6a64eceb-abae-41bb-a5c8-1179755f5a12" />
 
 
 
