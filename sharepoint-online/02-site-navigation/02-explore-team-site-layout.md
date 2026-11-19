@@ -82,6 +82,8 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | **Recycle bin** | Files deleted from **this site**. The second-stage recycle bin link is at the bottom of this page |
 | **Edit navigation** | Add, remove or rename links in this menu |
 
+## 4. Page command bar (above the page)
+
 
 
 
