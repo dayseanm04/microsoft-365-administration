@@ -91,6 +91,7 @@ URL ends in `/build`
 
 | Option | What it does |
 |---|---|
+| **Site** | Create a new site. This is where I made my practice site. If it's blocked, the organization has turned off self-service site creation |
 
 
 
