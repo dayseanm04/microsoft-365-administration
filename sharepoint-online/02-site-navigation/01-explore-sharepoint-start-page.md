@@ -66,6 +66,7 @@ The start page isn't a site. It's a dashboard that points you to sites, files an
 | **People** | Coworkers or classmates and what they're working on |
 | **Favorites** | Sites and files you've starred |
 | **Recent items** | Files and pages you opened recently |
+**Use it when:** You're looking for a site or file and don't remember where it is.
 
 
 
