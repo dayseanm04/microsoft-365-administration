@@ -81,6 +81,7 @@ URL ends in `/publish`
 | **News posts** | News posts you made |
 | **Analytics** | How many people viewed your pages |
 
+**Use it when:** You need to make content people will read, like an announcement or how-to page. This is more of a user/content task than admin, but you should know where it is.
 
 
 
