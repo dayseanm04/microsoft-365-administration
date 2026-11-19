@@ -107,6 +107,7 @@ URL ends in `/onedrive`
 
 | Option | What it shows |
 |---|---|
+| **My files** | Your own personal storage. Only you can see it unless you share something |
 
 
 
