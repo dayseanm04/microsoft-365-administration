@@ -79,6 +79,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | **Notebook** | The group's shared OneNote notebook |
 | **Pages** | All pages on the site, including the home page and news posts |
 | **Site contents** | **Everything on the site**: libraries, lists, pages and the recycle bin. You'll use this a lot |
+| **Recycle bin** | Files deleted from **this site**. The second-stage recycle bin link is at the bottom of this page |
 
 
 
