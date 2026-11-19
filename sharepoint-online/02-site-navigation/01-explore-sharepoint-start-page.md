@@ -113,18 +113,4 @@ URL ends in `/onedrive`
 | **Browse files by** | Find files by **People** (who shared them), **Meetings** (files from Teams meetings) or **Media** (photos and videos) |
 | **Quick access** | Shared libraries you open often show up here |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+> **Remember:** OneDrive = **my** files. A SharePoint site = **team** files. Deleted OneDrive files go to the OneDrive recycle bin. Deleted site files go to **that site's** recycle bin.
