@@ -6,9 +6,7 @@ Learn what each part of the SharePoint start page is, and where to go for common
 
 ## Environment
 
-- **Site:** SharePoint Practice Lab - Daysean
-- **URL:** `cuny907.sharepoint.com/sites/SharePointPracticeLab-Daysean`
-- **Type:** Team site, connected to a Microsoft 365 group (Private)
+- Microsoft 365 through my school account (CUNY), not the internship
 
 > **Note:** This is the default layout right after I created the site, before I customized the home page in [**01-site-setup**](../01-site-setup/).
 
