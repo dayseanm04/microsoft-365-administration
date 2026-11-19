@@ -65,7 +65,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | **SP logo + site name** | The site's icon and display name. Change them in Gear → **Site information** |
 | **Private group** | Only members can get in. This came from the privacy setting when I made the site |
 | **Added to favorites** | Starred, so it shows up under Discover → **Favorites** |
-
+| **1 member** | Click it to see and add **group members**. Right now it's just me. Adding someone here gives them access to the whole site, plus the group email, calendar and notebook |
 
 
 
