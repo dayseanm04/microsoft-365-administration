@@ -69,6 +69,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 ## 3. Left navigation (site menu)
 
+<img width="624" height="436" alt="8" src="https://github.com/user-attachments/assets/aa5deeca-c001-4203-a4d6-2605609d4e8b" />
 
 
 
