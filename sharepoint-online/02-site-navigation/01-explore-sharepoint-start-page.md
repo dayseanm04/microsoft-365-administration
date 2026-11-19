@@ -2,7 +2,7 @@
 
 ## Goal
 
-Learn what each part of a team site is, and where to go for common admin tasks.
+Learn what each part of the SharePoint start page is, and where to go for common tasks.
 
 ## Environment
 
