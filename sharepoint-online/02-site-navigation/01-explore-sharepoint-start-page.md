@@ -30,3 +30,5 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 ---
 
+## 1. The URL
+
