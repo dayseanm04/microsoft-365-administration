@@ -67,6 +67,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | **Added to favorites** | Starred, so it shows up under Discover → **Favorites** |
 | **1 member** | Click it to see and add **group members**. Right now it's just me. Adding someone here gives them access to the whole site, plus the group email, calendar and notebook |
 
+## 3. Left navigation (site menu)
 
 
 
