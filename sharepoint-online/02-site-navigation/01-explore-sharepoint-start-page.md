@@ -76,6 +76,7 @@ URL ends in `/publish`
 
 | Item | What it does |
 |---|---|
+| **Create** | Make a new page or news post |
 
 
 
