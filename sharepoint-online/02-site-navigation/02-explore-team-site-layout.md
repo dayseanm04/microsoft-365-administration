@@ -107,6 +107,7 @@ Note: this is before I create my team site:
 |---|---|
 | **News** | Default news posts from Microsoft explaining team sites. You can delete them or add your own |
 | **Quick links** | A list of shortcut links. Change them with **Edit** |
+| **Documents** | A preview of the Documents library. Drag files here to upload. **See full library** opens the whole thing |
 
 
 
