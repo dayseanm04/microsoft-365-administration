@@ -56,6 +56,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | **Change the look** | Theme, header and navigation style |
 | **Add a page / Add an app** | Create a new page, or add a list or library |
 
+## 2. Site header
 
 
 
