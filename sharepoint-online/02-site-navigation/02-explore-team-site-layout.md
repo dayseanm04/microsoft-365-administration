@@ -93,6 +93,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | **Preview** | See the page the way visitors see it |
 | **Analytics** | Views and visitors for this page |
 | **Published** | Shows the page is live |
+| **Share** | Share **the site or page** with people. This is different from sharing one file |
 
 
 
