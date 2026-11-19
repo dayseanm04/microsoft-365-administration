@@ -95,7 +95,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | **Published** | Shows the page is live |
 | **Share** | Share **the site or page** with people. This is different from sharing one file |
 | **Expand arrows** | Full-width view |
-
+| **Edit** | Edit the page: move, add or remove web parts |
 
 
 
