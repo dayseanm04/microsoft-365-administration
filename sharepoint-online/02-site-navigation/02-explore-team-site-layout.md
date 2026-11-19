@@ -106,6 +106,7 @@ Note: this is before I create my team site:
 | Web part | What it is |
 |---|---|
 | **News** | Default news posts from Microsoft explaining team sites. You can delete them or add your own |
+| **Quick links** | A list of shortcut links. Change them with **Edit** |
 
 
 
