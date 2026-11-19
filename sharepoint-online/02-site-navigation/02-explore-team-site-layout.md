@@ -63,7 +63,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | Item | What it means |
 |---|---|
 | **SP logo + site name** | The site's icon and display name. Change them in Gear → **Site information** |
-
+| **Private group** | Only members can get in. This came from the privacy setting when I made the site |
 
 
 
