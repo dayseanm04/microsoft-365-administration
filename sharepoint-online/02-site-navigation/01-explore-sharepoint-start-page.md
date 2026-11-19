@@ -54,6 +54,7 @@ The start page isn't a site. It's a dashboard that points you to sites, files an
 | **Search in SharePoint** | Searches sites, files, pages and people. You only see results you have permission to see |
 | **Gear (Settings)** | Personal settings for your account. Inside a site, this gear is where **Site contents**, **Site permissions** and **Site information** are, which is where most admin troubleshooting starts |
 
+## 3. Left rail: the four main areas
 
 
 
