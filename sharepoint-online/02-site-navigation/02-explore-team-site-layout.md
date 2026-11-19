@@ -88,6 +88,15 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 | Button | What it does |
 |---|---|
+| **New** | Add a list, document library, page, news post and more |
+
+
+
+
+
+
+
+
 
 
 
