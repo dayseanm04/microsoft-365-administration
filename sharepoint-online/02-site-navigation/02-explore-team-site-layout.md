@@ -54,6 +54,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | **Site usage** | How much the site is used |
 | **Apply a site template** | Switch to a different template |
 | **Change the look** | Theme, header and navigation style |
+| **Add a page / Add an app** | Create a new page, or add a list or library |
 
 
 
