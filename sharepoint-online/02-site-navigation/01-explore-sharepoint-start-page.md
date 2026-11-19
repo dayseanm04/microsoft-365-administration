@@ -68,6 +68,7 @@ The start page isn't a site. It's a dashboard that points you to sites, files an
 | **Recent items** | Files and pages you opened recently |
 **Use it when:** You're looking for a site or file and don't remember where it is.
 
+### Publish: create pages and news posts
 
 
 
