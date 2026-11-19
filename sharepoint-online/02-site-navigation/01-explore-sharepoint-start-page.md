@@ -52,6 +52,7 @@ The start page isn't a site. It's a dashboard that points you to sites, files an
 | **App launcher** (9 dots, top left) | Switches between Microsoft 365 apps: Outlook, Teams, OneDrive, Word and others. Admins also see an **Admin** tile here |
 | **SharePoint** | Click it to get back to the start page from anywhere |
 | **Search in SharePoint** | Searches sites, files, pages and people. You only see results you have permission to see |
+| **Gear (Settings)** | Personal settings for your account. Inside a site, this gear is where **Site contents**, **Site permissions** and **Site information** are, which is where most admin troubleshooting starts |
 
 
 
