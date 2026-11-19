@@ -42,6 +42,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | **Gear (Settings)** | The most important button for admin work (see below) |
 | **Your name** | Shows which account you're signed in with |
 
+### Gear menu
 
 
 
