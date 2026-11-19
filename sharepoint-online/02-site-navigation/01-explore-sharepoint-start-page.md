@@ -63,6 +63,7 @@ The start page isn't a site. It's a dashboard that points you to sites, files an
 | **Overview** | Recent sites and updates from coworkers |
 | **Sites** | Sites you've visited, followed, or been suggested |
 | **News** | News posts from sites you follow |
+| **People** | Coworkers or classmates and what they're working on |
 
 
 
