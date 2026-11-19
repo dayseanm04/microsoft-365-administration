@@ -48,6 +48,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 | Item | What it does |
 |---|---|
+| **Search this site** | Searches only this site. On the SharePoint start page, search covers all of SharePoint |
 
 
 
