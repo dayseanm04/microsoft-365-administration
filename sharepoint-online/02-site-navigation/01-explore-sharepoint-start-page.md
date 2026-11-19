@@ -32,3 +32,6 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 ## 1. The URL
 
+`cuny907.sharepoint.com/_layouts/15/sharepoint.aspx/discover`
+
+
