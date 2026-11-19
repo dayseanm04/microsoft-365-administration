@@ -90,6 +90,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 |---|---|
 | **New** | Add a list, document library, page, news post and more |
 | **Page details** | Info about this page |
+| **Preview** | See the page the way visitors see it |
 
 
 
