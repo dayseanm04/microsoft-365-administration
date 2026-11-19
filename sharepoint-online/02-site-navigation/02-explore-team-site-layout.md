@@ -74,6 +74,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | Link | Where it goes |
 |---|---|
 | **Home** | The site home page (what you're looking at) |
+| **Conversations** | The group's shared email inbox in Outlook |
 
 
 
