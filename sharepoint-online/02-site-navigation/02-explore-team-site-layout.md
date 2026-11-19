@@ -51,6 +51,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | **Search this site** | Searches only this site. On the SharePoint start page, search covers all of SharePoint |
 | **Megaphone icon** | Next steps to improve your site |
 | **Gear (Settings)** | The most important button for admin work (see below) |
+| **Your name** | Shows which account you're signed in with |
 
 
 
