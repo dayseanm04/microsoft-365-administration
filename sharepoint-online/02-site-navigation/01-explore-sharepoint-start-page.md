@@ -111,6 +111,7 @@ URL ends in `/onedrive`
 | **Libraries** | SharePoint document libraries you've used, so you can get to site files from here |
 | **Recycle bin** | Files you deleted from **your OneDrive**. This isn't the same as a site's recycle bin |
 | **Browse files by** | Find files by **People** (who shared them), **Meetings** (files from Teams meetings) or **Media** (photos and videos) |
+| **Quick access** | Shared libraries you open often show up here |
 
 
 
