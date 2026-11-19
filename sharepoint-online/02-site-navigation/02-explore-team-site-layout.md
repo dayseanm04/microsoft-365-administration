@@ -103,6 +103,7 @@ Note: this is before I create my team site:
 
 <img width="858" height="581" alt="10" src="https://github.com/user-attachments/assets/07d98ef2-7729-40b8-a271-73b701290b7b" />
 
+| Web part | What it is |
 
 
 
