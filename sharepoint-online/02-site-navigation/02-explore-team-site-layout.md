@@ -33,6 +33,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 ## 1. Top bar
 
+<img width="924" height="200" alt="5" src="https://github.com/user-attachments/assets/6fcd1e15-58a5-4029-a43d-f32e67ad52cc" />
 
 
 
