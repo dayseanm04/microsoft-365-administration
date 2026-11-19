@@ -58,6 +58,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 ## 2. Site header
 
+<img width="1089" height="222" alt="7" src="https://github.com/user-attachments/assets/19c205ba-60a8-438c-88c7-657a56e5fe1c" />
 
 
 
