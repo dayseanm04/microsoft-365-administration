@@ -30,3 +30,27 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 ### Click on SharePoint Practice Lab - Daysean
 
 <img width="956" height="775" alt="4" src="https://github.com/user-attachments/assets/a8e74196-e186-49ef-a36b-9e76196f707d" />
+
+## 1. Top bar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
