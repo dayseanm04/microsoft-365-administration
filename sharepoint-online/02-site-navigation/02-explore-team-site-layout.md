@@ -51,6 +51,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | **Site contents** | Everything on the site: libraries, lists, pages |
 | **Site information** | Change the site name, description and logo |
 | **Site permissions** | See and change who has access |
+| **Site usage** | How much the site is used |
 
 
 
