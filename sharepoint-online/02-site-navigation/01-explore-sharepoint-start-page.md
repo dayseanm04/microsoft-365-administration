@@ -79,6 +79,7 @@ URL ends in `/publish`
 | **Create** | Make a new page or news post |
 | **Pages** | Pages you made |
 | **News posts** | News posts you made |
+| **Analytics** | How many people viewed your pages |
 
 
 
