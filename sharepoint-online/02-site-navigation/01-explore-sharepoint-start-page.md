@@ -74,6 +74,7 @@ URL ends in `/publish`
 
 <img width="829" height="659" alt="6" src="https://github.com/user-attachments/assets/6a64eceb-abae-41bb-a5c8-1179755f5a12" />
 
+| Item | What it does |
 
 
 
