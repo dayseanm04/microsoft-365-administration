@@ -49,6 +49,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | Item | What it does |
 |---|---|
 | **Site contents** | Everything on the site: libraries, lists, pages |
+| **Site information** | Change the site name, description and logo |
 
 
 
