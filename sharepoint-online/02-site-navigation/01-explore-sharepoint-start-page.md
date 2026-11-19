@@ -70,6 +70,8 @@ The start page isn't a site. It's a dashboard that points you to sites, files an
 
 ### Publish: create pages and news posts
 
+URL ends in `/publish`
+
 
 
 
