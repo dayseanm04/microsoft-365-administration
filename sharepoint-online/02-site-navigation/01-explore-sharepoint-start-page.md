@@ -37,6 +37,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | Part | What it means |
 |---|---|
 | **`cuny907`** | The school's **tenant name**. Every company has its own. At the internship it'll be `companyname.sharepoint.com` |
+| **`sharepoint.com`** | This is **SharePoint Online**, the cloud version |
 
 
 
