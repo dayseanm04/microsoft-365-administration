@@ -108,6 +108,7 @@ URL ends in `/onedrive`
 | Option | What it shows |
 |---|---|
 | **My files** | Your own personal storage. Only you can see it unless you share something |
+| **Libraries** | SharePoint document libraries you've used, so you can get to site files from here |
 
 
 
