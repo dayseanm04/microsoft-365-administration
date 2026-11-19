@@ -95,6 +95,7 @@ URL ends in `/build`
 | **List** | Create a list, like a table for tracking tasks or equipment |
 | **Document library** | Create a place to store and manage files, with versioning and permissions |
 | **Agent** | A Copilot AI assistant that answers questions using SharePoint content. It may need a Copilot license |
+| **Owned by you** | Everything you own: Sites, Knowledge bases, Lists, Document libraries, Agents. Use the filters at the top |
 
 
 
