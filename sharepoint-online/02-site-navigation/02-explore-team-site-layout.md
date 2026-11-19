@@ -92,6 +92,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 | **Page details** | Info about this page |
 | **Preview** | See the page the way visitors see it |
 | **Analytics** | Views and visitors for this page |
+| **Published** | Shows the page is live |
 
 
 
