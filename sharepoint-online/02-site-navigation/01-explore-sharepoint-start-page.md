@@ -97,6 +97,7 @@ URL ends in `/build`
 | **Agent** | A Copilot AI assistant that answers questions using SharePoint content. It may need a Copilot license |
 | **Owned by you** | Everything you own: Sites, Knowledge bases, Lists, Document libraries, Agents. Use the filters at the top |
 
+**Use it when:** You need to create something new. **Owned by you** is a fast way to find everything you're the owner of.
 
 
 
