@@ -58,6 +58,7 @@ The start page isn't a site. It's a dashboard that points you to sites, files an
 
 <img width="796" height="508" alt="2" src="https://github.com/user-attachments/assets/22d5bdcc-fd29-49d8-8537-bf0dc77a3d44" />
 
+| Option | What it shows |
 
 
 
