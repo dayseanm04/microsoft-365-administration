@@ -46,6 +46,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 <img width="549" height="751" alt="6" src="https://github.com/user-attachments/assets/c635ffb4-dad0-49b2-a405-da8643deaef2" />
 
+| Item | What it does |
 
 
 
