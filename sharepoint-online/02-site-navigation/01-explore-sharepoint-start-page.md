@@ -105,6 +105,7 @@ URL ends in `/onedrive`
 
 <img width="1079" height="746" alt="8" src="https://github.com/user-attachments/assets/3be7234c-3dee-4c2e-8111-012c4e8755a9" />
 
+| Option | What it shows |
 
 
 
