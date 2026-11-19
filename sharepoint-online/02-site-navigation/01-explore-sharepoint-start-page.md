@@ -85,6 +85,7 @@ URL ends in `/publish`
 
 ### Build: create sites, lists and libraries
 
+URL ends in `/build`
 
 
 
