@@ -43,6 +43,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 The start page isn't a site. It's a dashboard that points you to sites, files and tools. Real sites have URLs like **`cuny907.sharepoint.com/sites/SiteName`**.
 
+## 2. Top bar (on every page)
 
 
 
