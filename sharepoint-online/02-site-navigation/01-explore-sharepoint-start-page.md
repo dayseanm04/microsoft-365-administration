@@ -1,4 +1,4 @@
-# 02 - Explore the Team Site Layout
+# 01 - Explore the SharePoint Start Page
 
 ## Goal
 
