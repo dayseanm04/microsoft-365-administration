@@ -27,5 +27,6 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 <img width="826" height="692" alt="3" src="https://github.com/user-attachments/assets/e7f02e58-d9ad-4e8e-915e-ca5d4476c02d" />
 
-Click on SharePoint Practice Lab - Daysean
+### Click on SharePoint Practice Lab - Daysean
 
+<img width="956" height="775" alt="4" src="https://github.com/user-attachments/assets/a8e74196-e186-49ef-a36b-9e76196f707d" />
