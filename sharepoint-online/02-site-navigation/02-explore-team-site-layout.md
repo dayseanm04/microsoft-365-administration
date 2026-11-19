@@ -99,6 +99,7 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 ## 5. Page body (web parts)
 
+Note: this is before I create my team site:
 
 
 
