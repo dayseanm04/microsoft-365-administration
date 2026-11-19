@@ -34,4 +34,5 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 
 `cuny907.sharepoint.com/_layouts/15/sharepoint.aspx/discover`
 
-
+| Part | What it means |
+|---|---|
