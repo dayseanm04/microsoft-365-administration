@@ -109,6 +109,7 @@ URL ends in `/onedrive`
 |---|---|
 | **My files** | Your own personal storage. Only you can see it unless you share something |
 | **Libraries** | SharePoint document libraries you've used, so you can get to site files from here |
+| **Recycle bin** | Files you deleted from **your OneDrive**. This isn't the same as a site's recycle bin |
 
 
 
