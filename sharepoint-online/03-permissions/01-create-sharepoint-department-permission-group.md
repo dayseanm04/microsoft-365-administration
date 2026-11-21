@@ -7,4 +7,5 @@ Create a SharePoint permission group for a department, so I can give access to a
 ## Environment
 - Microsoft 365 through my school account
 - Site: SharePoint Practice Lab (team site from [**01 - Create a Team Site**](../01-site-setup/01-create-team-site.md))
-- I don't have admin rights on my school tenant, so I can't use the **Microsoft 365 admin center**
+- I don't have admin rights on my school tenant, so I can't use the **Microsoft 365 admin center**  or **Microsoft Entra admin center** to create security groups. 
+
