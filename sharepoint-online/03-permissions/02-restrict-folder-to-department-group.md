@@ -7,3 +7,4 @@ Make the **HR-Folder** only open to the HR group. By default, folders get the sa
 ## Environment
 
 - Microsoft 365 through my school account
+- Site: SharePoint Practice Lab (team site from [**01 - Create a Team Site**](../01-site-setup/01-create-team-site.md))
