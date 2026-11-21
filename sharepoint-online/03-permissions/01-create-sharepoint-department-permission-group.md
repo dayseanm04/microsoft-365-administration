@@ -35,3 +35,34 @@ Open the site, click the **gear (Settings)** and select **Site permissions**.
 
 ### 4. Go to Advanced permissions settings
 
+The Site permissions panel shows the three default groups:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
