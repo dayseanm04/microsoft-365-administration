@@ -63,6 +63,7 @@ Under **Give Group Permission to this Site**, I left every box **unchecked** and
 
 <img width="851" height="347" alt="9" src="https://github.com/user-attachments/assets/f6742a9a-491c-4821-969e-7b1765ea5966" />
 
+Checking a box here gives the group that access across the **whole site**. I left them unchecked so the group starts with no access, and I give access separately later.
 
 
 
