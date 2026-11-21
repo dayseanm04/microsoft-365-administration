@@ -10,3 +10,5 @@ Create a SharePoint permission group for a department, so I can give access to a
 - I don't have admin rights on my school tenant, so I can't use the **Microsoft 365 admin center**  or **Microsoft Entra admin center** to create security groups. I made a **SharePoint group** at the site level instead. See [**If I had admin access**](#if-i-had-admin-access) for how this is normally done at work
 
 ---
+
+## Steps
