@@ -57,6 +57,7 @@ Click **Create Group** and fill it out:
 
 <img width="926" height="421" alt="8" src="https://github.com/user-attachments/assets/fa2abce4-403f-4aaa-8571-2847b3d0bdd8" />
 
+### 6. Leave the permission levels unchecked
 
 
 
