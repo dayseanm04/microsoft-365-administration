@@ -49,6 +49,7 @@ At the bottom, click **Advanced permissions settings**.
 
 <img width="958" height="587" alt="6" src="https://github.com/user-attachments/assets/423c9868-de88-4249-a277-1f1bbe2ae819" />
 
+### 5. Create the group
 
 
 
