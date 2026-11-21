@@ -12,3 +12,5 @@ Make the **HR-Folder** only open to the HR group. By default, folders get the sa
 - Group: `Lab-HR-Group` (from [**01 - Create a SharePoint Department Permission Group**](01-create-sharepoint-department-permission-group.md))
 
 ---
+
+## Steps
