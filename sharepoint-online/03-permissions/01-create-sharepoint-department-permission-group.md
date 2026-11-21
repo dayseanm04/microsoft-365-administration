@@ -69,6 +69,7 @@ Checking a box here gives the group that access across the **whole site**. I lef
 
 In the group, click **New → Add users**. Search for the person and hover over their name to make sure it's the right email. Add a message and click **Share**.
 
+<img width="1042" height="601" alt="10" src="https://github.com/user-attachments/assets/0c5d8c36-26a0-498d-8202-f7f292bbb165" />
 
 
 
