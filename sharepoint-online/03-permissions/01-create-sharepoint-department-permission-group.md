@@ -42,6 +42,7 @@ The Site permissions panel shows the three default groups:
 | Group | Access |
 |---|---|
 | **Site owners** | Full control |
+| **Site members** | Edit |
 
 
 
