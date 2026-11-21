@@ -73,9 +73,7 @@ In the group, click **New → Add users**. Search for the person and hover over 
 
 <img width="651" height="387" alt="11" src="https://github.com/user-attachments/assets/f683da6b-e1f2-4f11-be9e-5f966a7c2e0e" />
 
-Click share: 
 
-<img width="899" height="589" alt=12" src="https://github.com/user-attachments/assets/f8e4f529-83a3-4098-b1ba-eb1ac6ca2f63" />
 
 
 
