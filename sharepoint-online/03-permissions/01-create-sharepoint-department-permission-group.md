@@ -61,6 +61,7 @@ Click **Create Group** and fill it out:
 
 Under **Give Group Permission to this Site**, I left every box **unchecked** and clicked **Create**.
 
+<img width="851" height="347" alt="9" src="https://github.com/user-attachments/assets/f6742a9a-491c-4821-969e-7b1765ea5966" />
 
 
 
