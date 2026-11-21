@@ -43,6 +43,7 @@ The Site permissions panel shows the three default groups:
 |---|---|
 | **Site owners** | Full control |
 | **Site members** | Edit |
+| **Site visitors** | Read |
 
 
 
