@@ -37,6 +37,7 @@ Open the site, click the **gear (Settings)** and select **Site permissions**.
 
 The Site permissions panel shows the three default groups:
 
+<img width="803" height="502" alt="5" src="https://github.com/user-attachments/assets/f11b57ab-f820-4b9b-b5be-d7a280242fd5" />
 
 
 
