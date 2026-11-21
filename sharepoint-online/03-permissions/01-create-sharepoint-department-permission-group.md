@@ -16,3 +16,6 @@ Create a SharePoint permission group for a department, so I can give access to a
 ### 1. Sign in to Microsoft 365
 
 Go to [https://m365.cloud.microsoft](https://m365.cloud.microsoft) and sign in.
+
+<img width="933" height="659" alt="1" src="https://github.com/user-attachments/assets/cd64d7d4-acee-4657-986f-0c6afe1b9a57" />
+
