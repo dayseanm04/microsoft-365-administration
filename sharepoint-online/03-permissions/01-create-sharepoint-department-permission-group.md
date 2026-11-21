@@ -33,4 +33,5 @@ Open the site, click the **gear (Settings)** and select **Site permissions**.
 
 <img width="1062" height="724" alt="4" src="https://github.com/user-attachments/assets/bfd30abc-6ecc-4bba-ab62-b5bb76bfbd5a" />
 
+### 4. Go to Advanced permissions settings
 
