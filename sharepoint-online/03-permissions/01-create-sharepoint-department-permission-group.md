@@ -85,6 +85,7 @@ Click Share:
 
 ## What I learned
 
+- A **SharePoint group** only exists on that one site. A **Microsoft 365 group** or **security group** is made in the admin center and works across the tenant
 
 
 
