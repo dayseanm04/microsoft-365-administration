@@ -93,6 +93,7 @@ Click Share:
 
 ## If I had admin access
 
+At a company, you usually wouldn't make a separate SharePoint group on every site. You'd make one **security group** for the department in an admin center, then use that group anywhere in the tenant: SharePoint, Teams, OneDrive, apps, and so on.
 
 
 
