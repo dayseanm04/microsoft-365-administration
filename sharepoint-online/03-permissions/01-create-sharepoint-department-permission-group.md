@@ -59,6 +59,7 @@ Click **Create Group** and fill it out:
 
 ### 6. Leave the permission levels unchecked
 
+Under **Give Group Permission to this Site**, I left every box **unchecked** and clicked **Create**.
 
 
 
