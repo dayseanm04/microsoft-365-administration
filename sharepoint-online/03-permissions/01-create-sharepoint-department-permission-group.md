@@ -51,6 +51,7 @@ At the bottom, click **Advanced permissions settings**.
 
 ### 5. Create the group
 
+Click **Create Group** and fill it out:
 
 
 
