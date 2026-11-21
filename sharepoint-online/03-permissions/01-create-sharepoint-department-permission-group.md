@@ -65,6 +65,7 @@ Under **Give Group Permission to this Site**, I left every box **unchecked** and
 
 Checking a box here gives the group that access across the **whole site**. I left them unchecked so the group starts with no access, and I give access separately later.
 
+### 7. Add members
 
 
 
