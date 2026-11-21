@@ -53,6 +53,7 @@ At the bottom, click **Advanced permissions settings**.
 
 Click **Create Group** and fill it out:
 
+<img width="1067" height="656" alt="7" src="https://github.com/user-attachments/assets/29a5696f-8e51-4d68-b32d-0a1bc32b1a8a" />
 
 
 
