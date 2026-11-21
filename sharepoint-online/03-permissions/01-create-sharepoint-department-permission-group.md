@@ -87,6 +87,7 @@ Click Share:
 
 - A **SharePoint group** only exists on that one site. A **Microsoft 365 group** or **security group** is made in the admin center and works across the tenant
 - Leaving the permission levels unchecked creates the group with **no access**. That's **least privilege**: only give access where it's needed
+- Groups make it easier to manage access. When someone joins or leaves HR, I change the group once instead of every folder
 
 
 
