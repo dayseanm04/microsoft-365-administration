@@ -26,3 +26,5 @@ Click the app launcher (the 9 dots, top left) and select **SharePoint**.
 <img width="917" height="557" alt="2" src="https://github.com/user-attachments/assets/4705d4a8-994b-4468-894f-4ec067e0f3ce" />
 
 <img width="958" height="740" alt="3" src="https://github.com/user-attachments/assets/59468a17-a7c7-4202-b41a-a6c81ed3026b" />
+
+### 3. Open Site permissions
