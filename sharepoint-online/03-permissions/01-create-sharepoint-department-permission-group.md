@@ -81,6 +81,7 @@ Click Share:
 
 ## Result
 
+`Lab-HR-Group` is created with members in it, but it doesn't have access to anything yet.
 
 
 
