@@ -45,6 +45,7 @@ The Site permissions panel shows the three default groups:
 | **Site members** | Edit |
 | **Site visitors** | Read |
 
+At the bottom, click **Advanced permissions settings**.
 
 
 
