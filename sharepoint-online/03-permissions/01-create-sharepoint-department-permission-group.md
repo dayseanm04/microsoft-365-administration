@@ -55,6 +55,7 @@ Click **Create Group** and fill it out:
 
 <img width="1067" height="656" alt="7" src="https://github.com/user-attachments/assets/29a5696f-8e51-4d68-b32d-0a1bc32b1a8a" />
 
+<img width="926" height="421" alt="8" src="https://github.com/user-attachments/assets/fa2abce4-403f-4aaa-8571-2847b3d0bdd8" />
 
 
 
