@@ -67,6 +67,7 @@ Checking a box here gives the group that access across the **whole site**. I lef
 
 ### 7. Add members
 
+In the group, click **New → Add users**. Search for the person and hover over their name to make sure it's the right email. Add a message and click **Share**.
 
 
 
